@@ -47,9 +47,5 @@ def write_to_my():
     with open(r".\daai.doc", 'w', encoding="utf-8") as file:
         file.write(book)
 
-
-<<<<<<< HEAD
+        
 write_to_my()
-=======
-write_to_my()
->>>>>>> f40f2c68b754c953af4e389ab6243627372648ea
